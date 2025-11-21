@@ -20,7 +20,7 @@ This website is a next-gen gaming platform, currently under active development.
 
 ## 📦 Project Structure
 
-- `ind4ex.html` — Main landing page
+- `inde4x.html` — Main landing page
 - `style.css` — Custom styles
 - `README.md` — Project documentation
 
