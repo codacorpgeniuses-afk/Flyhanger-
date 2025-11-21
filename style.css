@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: linear-gradient(135deg, #0158a8 0%, #00eaff 100%);
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background: #111d2c;
+    padding: 1rem 0;
+}
+
+nav a {
+    color: #00eaff;
+    text-decoration: none;
+    margin: 0 1rem;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+header, section {
+    padding: 2rem 0;
+}
+
+footer {
+    background: #111d2c;
+    color: #bbb;
+    padding: 1rem 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

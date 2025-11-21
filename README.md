@@ -1,23 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CODACORP REALITY</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: blue;
-        }
-        h1 {
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-    <h1> style "font-family: Algerian; color: green;" >Welcome to CODACORP where we bring your gaming experience alive</h1>
-    <p>This website is still in progress and will be available very soon</p>
-    <a href="#learn-more">Learn More</a>
-</body>
-</html>
+# CODACORP REALITY
+
+Welcome to **CODACORP REALITY**! We bring your gaming experience alive.
+
+## 🚀 Overview
+
+This website is a next-gen gaming platform, currently under active development.
+
+## 🛠️ Features Planned
+
+- Immersive landing page
+- User authentication
+- Game library and previews
+- Community features
+- Real-time updates
+
+## 👷 Development Status
+
+**The website is under construction and will be available soon!**
+
+## 📦 Project Structure
+
+- `index.html` — Main landing page
+- `style.css` — Custom styles
+- `README.md` — Project documentation
+
+## 🤝 Contributing
+
+1. Fork this repo
+2. Clone your fork
+3. Make changes and open a pull request
+
+## 📫 Contact
+
+- Email: [team@codacorp.com](mailto:team@codacorp.com)
+
+---
+
+*Made by the CODACORP Team*
