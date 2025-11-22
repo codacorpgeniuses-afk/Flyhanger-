@@ -1,6 +1,6 @@
-# CODACORP REALITY
+# CODACORP GENIUSES
 
-Welcome to **CODACORP REALITY**! We bring your gaming experience alive.
+Welcome to **ÇØĐAÇØRP ĞËÑIŰSË$**! We bring your gaming experience alive.
 
 ## 🚀 Overview
 
@@ -32,8 +32,8 @@ This website is a next-gen gaming platform, currently under active development.
 
 ## 📫 Contact
 
-- Email: [team@codacorp.com](mailto:team@codacorp.com)
+- Email: [codacorpgeniuses@gmail.com](mailto: codacorpgeniuses@gmail.com)
 
 ---
 
-*Made by the CODACORP Team*
+*Made by the CODACORP GENIUSES Team*
